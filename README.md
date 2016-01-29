@@ -7,3 +7,5 @@ This is just a HelloWorld to see how GitHub works.
 Added a line
 
 Added some new Text
+
+Another line added
