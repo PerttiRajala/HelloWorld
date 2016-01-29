@@ -6,6 +6,6 @@ This is just a HelloWorld to see how GitHub works.
 
 Added a line
 
-Another line added
+Added some new Text
 
-Delete a row and added new text
+Another line added
